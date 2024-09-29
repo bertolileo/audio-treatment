@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1695737292 source:d:\c\trabalho2\teste0_basico.c
+	<stdlib.h>
+	"wavfile.h"
+	"trabalho2.h"
+
+1651856764 d:\c\trabalho2\wavfile.h
+	<stdio.h>
+
+1695736874 d:\c\trabalho2\trabalho2.h
+
+1651853006 source:d:\c\trabalho2\wavfile.c
+	<string.h>
+	<stdlib.h>
+	<limits.h>
+	"wavfile.h"
+
+1695737346 source:d:\c\trabalho2\teste1_ganho.c
+	<stdlib.h>
+	"wavfile.h"
+	"trabalho2.h"
+
+1695738078 source:d:\c\trabalho2\teste2_4_limita.c
+	<stdlib.h>
+	"wavfile.h"
+	"trabalho2.h"
+
+1698720936 source:d:\c\trabalho2\t2-2609770-2609797.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"trabalho2.h"
+
